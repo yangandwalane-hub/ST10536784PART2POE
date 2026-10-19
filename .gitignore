@@ -1,0 +1,4 @@
+target/
+messages.json
+.idea/
+*.iml
